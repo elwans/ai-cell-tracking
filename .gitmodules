@@ -1,0 +1,6 @@
+[submodule "cell-tracker-gnn"]
+	path = cell-tracker-gnn
+	url = https://github.com/talbenha/cell-tracker-gnn
+[submodule "trackastra"]
+	path = trackastra
+	url = https://github.com/weigertlab/trackastra.git
